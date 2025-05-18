@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "damp-wildflower-8602",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ea5112dd-49c5-4df0-8438-52f9828f9e1b",
+      "database_name": "autumn-sea-31d4-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
